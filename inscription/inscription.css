@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: rgba(155, 152, 156, 0.767);
+
+}
+
+.container{
+    width: 30%;
+    height: 400px;
+    background-color: #9996a0bd;
+    margin: 0 auto;
+   margin-top: 50px;
+   border-radius: 10px;
+   padding: 30px;
+   justify-content: center;
+   text-align: center;
+}
+
+.container{
+    box-shadow: 1px 1px 10px 1px rgb(72, 76, 83);
+}
+
+
+
+.container h3{
+    margin: 5px;
+    color: rgb(255, 255, 255);
+}
+
+ 
+.container .bat input{
+    width: 70%;
+    height: 3cqi;
+    background-color: rgb(93, 93, 112);
+ margin-top: 5px;
+  margin: 5px;
+  border: none;
+  color: rgb(252, 249, 249);
+   
+} 
+label{
+    color: rgb(255, 255, 255);
+}
+.a2{
+    width: 50%;
+    height: 30px;
+    border-radius: 20px;
+  text-decoration: none; 
+  color: white;
+  
+}
+
+button {
+    width: 50%;
+    height: 40px;
+    border-radius: 20px;
+  background-color: rgb(133, 133, 177);
+  text-decoration: none; 
+  color: white;
+  border: none;
+  position: relative;
+  top: 20px;
+}
+
+button:hover {
+ background-color: rgb(103, 87, 110);
+}
+p{
+    position: relative;
+    top: 25px;
+}

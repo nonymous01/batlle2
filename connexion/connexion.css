@@ -1,0 +1,182 @@
+
+
+/* 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: #ffff;  
+    
+   
+}
+ 
+.container{
+    width: 300px;
+    height: 340px;
+    background-color: #5C40B1;
+  
+   
+    margin: 0 auto;
+   margin-top: 150px;
+   border-radius: 10px;
+ 
+   padding: 30px;
+} 
+
+.container img{
+     margin-top: -10px; 
+}
+
+.container h3{
+    color: white;
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  
+}
+
+.container .bat input{
+    margin-top: 30px;
+    width: 250px;
+    height: 40px;
+    
+    background-color: 0%;
+    border-radius: 10px;
+   border: 1px solid;
+  
+   
+}
+ ::placeholder {
+  color: black;
+  font-size: 1rem;
+  padding: 20px;
+}
+
+span a{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+   
+    background: #B594FD;
+   
+   display: flex;
+   margin-left: 70px;
+   justify-content: center;
+   align-items: center;
+  margin-top: 20px;
+  text-decoration: none; 
+  color: white;
+  
+}
+
+.sac{
+    font-size: 1.2rem;
+    color: white;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.sac a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.classet{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   margin-top: 40px;
+}
+
+.classet a{
+    
+    text-decoration: none;
+} */
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: rgba(155, 152, 156, 0.767);
+}
+
+.container{
+    width: 30%;
+    height: 350px;
+    background-color: #9996a0bd;
+    margin: 0 auto;
+   margin-top: 100px;
+   border-radius: 10px;
+   padding: 30px;
+   justify-content: center;
+   text-align: center;
+}
+
+.container{
+    box-shadow: 1px 1px 10px 1px rgb(72, 76, 83);
+}
+
+
+.container h3{
+    margin: 5px;
+    padding: 10px;
+    color: white;
+}
+.container .over p{
+    color: white;
+    margin: 5px;
+}
+ 
+.container .bat input{
+    width: 70%;
+    height: 3cqi;
+    background-color: rgb(93, 93, 112);
+ margin-top: 5px;
+  margin: 5px;
+  border: none;
+  color: white;
+   
+} 
+label{
+    color: white;
+}
+.a2{
+    width: 50%;
+    height: 30px;
+    border-radius: 20px;
+  text-decoration: none; 
+  color: white;
+  
+}
+
+button {
+    width: 50%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(133, 133, 177);
+    text-decoration: none; 
+  color: white;
+  border: none;
+  position: relative;
+  top: 20px;
+}
+button:hover {
+    background-color: rgb(103, 87, 110);
+   }
+   
+p{
+    position: relative;
+    top: 30px;
+}
+ 
