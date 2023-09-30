@@ -8,7 +8,7 @@ data.forEach((usr) => {
             <th>${usr.Numero}</th>
             <th>${usr.mot_de_passe}</th>
             <th>${usr.confirme_mot_de_passe}</th>
-            <th><button>modifier</button></th>
+            <th><button>mise a jour</button></th>
         </tr>
         `
         tbody.innerHTML+=now
