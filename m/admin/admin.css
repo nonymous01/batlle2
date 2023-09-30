@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(255, 255, 255);
+
+}
+.elle{
+  justify-content: center;
+  display: flex;
+  height: 15px;
+  color: rgb(0, 0, 0);
+  font-size: 23px;
+  position: relative;
+  top: 10px;
+}
+
+.image{
+  height: 220px;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+}
+.image img{
+  position: relative;
+  top: 52px;
+  height: 120px;
+  border-radius: 10%;
+}
+table {
+  color: white;
+  width: 80%; /* Largeur de la table */
+  border-collapse: collapse; /* Fusionner les bordures de cellules */
+  margin: 20px auto; /* Centrer la table sur la page */
+  border: 2px solid #8f8585; /* Bordure autour de la table */
+}
+
+th, td {
+  border: 1px solid #ffffff; /* Bordure autour des cellules */
+  padding: 10px; /* Espace à l'intérieur des cellules */
+  text-align: center; /* Alignement du texte au centre */
+}
+
+th {
+  background-color: #0000009f; /* Couleur de fond pour les cellules d'en-tête */
+  color: #fff; /* Couleur du texte pour les cellules d'en-tête */
+}

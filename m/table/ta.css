@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(190, 190, 190);
+}
+
+.connexion{
+    height: 600px;
+    width: 40%;
+    text-align: center;
+    position: absolute;
+    background-color: rgba(3, 8, 17, 0.5);
+    border-radius: 25px;
+    margin-top: 120px;
+    color: white; 
+    box-shadow: 1px 1px 10px 1px rgb(72, 76, 83);
+}
+.pri{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative; 
+    width: 100%;
+}
+
+input{
+    height: 50px;
+    width: 75%;
+    margin-top: 40px;
+    position: relative;
+    border: none;
+    color: rgb(129, 59, 59);
+    background-color: rgba(46, 36, 36, 0.863);
+    border-bottom: 3px solid white;
+    border-radius: 50px;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+ 
+
+input[type="submit"] {
+    background-color: rgb(236, 224, 248);
+    border: none;
+    height: 50px;
+    width: 63%;
+    left: 19%;
+    bottom: 72px;
+    margin-top: 40px;
+    background-color: rgba(26, 24, 32, 0.623);
+    color: white;
+    position: absolute;
+    border-bottom: 3px solid white;
+    border-radius: 50px;
+
+}
+
+.aa{
+     height: 50px;
+    width: 75%;
+    margin-top: 40px;
+    position: relative;
+    border: none;
+    color: rgb(129, 59, 59);
+    background-color: rgba(172, 102, 102, 0.863);
+    border-bottom: 3px solid white;
+    border-radius: 50px;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.dev{
+    position: relative;
+    bottom: -80px;    
+}
+.dev a{
+  color: rgb(243, 243, 243);
+  font-size: 18px;
+}
+.cn{    font-size: 20px;
+
+  margin-top: 20px;
+  font-size: 35px;
+  color: white;
+}
+.pp{
+    position: relative;
+    top: 10px;
+    bottom: 123px;
+    font-size: 20px;
+}

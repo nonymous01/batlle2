@@ -1,0 +1,244 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.nav{
+    background-color: rgba(2, 72, 85, 0.904);
+    width: 100%;
+    height: 40px;
+}
+.nav1{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+.element1{
+    width: 20%;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+}
+.element1 strong{
+    position: relative;
+    top: 10px;
+    
+}
+.element2{
+    width: 30%;
+    height: 100%;
+}
+.element3{
+    width: 20%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+}
+button {
+    font-size: 17px;
+    position: relative;
+    border: none;
+    height: 30px;
+    background-color: rgb(160, 197, 197);
+    top: 5px;
+    border-radius: 10px;
+}
+button:hover{
+    border: 2px solid rgb(207, 6, 180);
+}
+
+button a{
+    color: black;
+    text-decoration: none;
+}
+.element2 ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 5px;
+}
+.element2 ul li a:hover{
+    
+    border-bottom:2px solid rgb(207, 6, 180) ;
+
+}
+button .secur1{
+    color: white;
+} 
+.element2 ul li {
+    display: inline;
+    justify-content: center;
+    margin-left: 22px;
+}
+
+.element3 img{
+    height: 40px;
+}
+
+.font{
+    position: relative;
+    top:50px ;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+.titre{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.titre1{
+    justify-content: center;
+    display: flex;
+}
+
+.titre1 .secur1{
+    background-color: rgb(172, 160, 160);
+    width: 15%;
+    height: 40px;
+    text-align: center;
+    position: relative;
+    
+    gap: 100px;
+    padding-left: 10px;
+}
+.titre1 .secur2{
+    background-color: rgb(97, 47, 47);
+    width: 15%;
+    height: 40px;
+}
+.titre1 .secur3{
+    background-color: rgb(78, 66, 66);
+    width: 15%;
+    height: 40px;
+}
+.titre1 .secur4{
+    background-color: rgb(71, 8, 8);
+    width: 15%;
+    height: 40px;
+}
+
+
+.cours1{
+    position: relative;
+    left: -2%;
+    background-color: rgb(211, 208, 208);
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px 1px rgb(72, 76, 83);
+
+
+}
+.cours1:hover{
+border: 2px solid rgb(0, 255, 55);
+}
+
+.cours2{
+    box-shadow: 1px 1px 10px 1px rgb(72, 76, 83);
+    background-color: rgb(211, 208, 208);
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+}
+.cours2:hover{
+    border: 2px solid rgb(0, 255, 55);
+}
+.cours3{
+    box-shadow: 1px 1px 10px 1px rgb(72, 76, 83);
+    position: relative;
+    left: 2%;
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+    background-color: rgb(211, 208, 208);
+
+
+}
+.cours3:hover{
+    border: 2px solid rgb(0, 255, 55);
+    }
+footer{
+    background-color: rgb(16, 19, 18);
+    width: 100%;
+    height: 200px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    top: 400px;
+}
+
+.titre11{
+    border-radius: 20px 20px 0px 0px;
+    background-color: rgb(196, 198, 202);
+    width: 100%;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+}
+.titre112{
+    border-radius: 20px 20px 0px 0px;
+    background-color: rgb(196, 198, 202);
+    width: 100%;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+}
+.titre113{
+    border-radius: 20px 20px 0px 0px;
+    background-color: rgb(196, 198, 202);
+    width: 100%;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+}
+
+.ajout1{
+    border-radius: 0px 0px 20px 20px;
+    background-color: rgb(196, 198, 202);
+    width: 100%;
+    height: 30px;
+    justify-content: center;
+    text-align: center;
+    top: 57px;
+    position: relative;
+}
+.ajout2{
+    border-radius: 0px 0px 20px 20px;
+    background-color: rgb(196, 198, 202);
+    width: 100%;
+    height: 30px;
+    justify-content: center;
+    text-align: center;
+    top: 38px;
+    position: relative;
+}
+.ajout3{
+    border-radius: 0px 0px 20px 20px;
+    background-color: rgb(196, 198, 202);
+    width: 100%;
+    height: 30px;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 56px;
+}
+.ajout1 .ajout2 .ajout3 {
+    text-decoration: none;
+    color: white;
+}
+p{
+    position: relative;
+    top: 10px;
+    justify-content: center;
+    text-align: center;
+}

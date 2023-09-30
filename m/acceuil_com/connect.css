@@ -1,0 +1,1379 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(15, 15, 32);
+
+}
+button a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: 'Iceberg', cursive;;
+}
+.wwwww{
+    position: relative;
+    bottom: 12px;
+    left: 1%;
+    background-color: rgb(222, 225, 231);
+}
+.wwwww:hover{
+    position: relative;
+    box-shadow: 1px 1px 10px 1px  rgb(77, 95, 194);
+} 
+.y{
+    color: rgb(6, 207, 40);
+}
+.c{
+    color: rgb(6, 207, 40);
+}
+.i{
+    color: rgb(6, 207, 40);
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    overflow: hidden;
+    
+}
+.bergb{
+    display: none;
+}
+.bergb input{
+    display: none;
+}
+.bergb .hgfd{
+    display: none;
+}
+
+.element1{
+    position: relative;
+    background-color: #000000;
+    width: 25%;
+    height: 70px;
+    font-size: 32px;
+    top: -22px;
+
+}
+.element1 a{
+    position: relative;
+    top: 15px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Iceberg', cursive;;
+    
+
+}
+
+.element2{
+    background-color: rgb(0, 0, 0);
+    width: 59%;
+    height: 70px;
+    position: relative;
+    top: -22px;
+
+}
+.element2 a{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: -50px;
+    font-family: 'Iceberg', cursive;;
+
+
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    padding-left: 3rem;
+
+}
+.element3{
+    background-color: rgb(0, 0, 0);
+    width: 16%;
+    height: 70px;
+    overflow: hidden;
+    position: relative;
+    top: -22px;
+
+}
+.element3 a{
+    position: relative;
+    top: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Iceberg', cursive;;
+
+
+}
+
+.formm1{
+    width: 75%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 320px;
+    left: 10vw;
+    border-radius: 50px;
+    top: 90px;
+}
+
+.azerty{
+    width: 70%;
+    height: 100%;
+    position: relative;
+    top: 60px;
+}
+
+.azerty2{
+    width: 30%;
+
+    height: 100%;
+    /* background-image: url(./image/Coinhouse_A_V_Hero_1920x1080_2306-2-removebg-preview.png); */
+    background-size: 330px;
+    background-repeat: no-repeat;  
+}
+.azerty2 img{
+    width: 100%;
+}
+.txt{
+    width: 70%;
+    height: 30%;
+    justify-content: left;
+    display: flex;
+    font-family: 'Iceberg', cursive;;
+}
+
+.txt1{
+    width: 55%;
+    height: 100px;
+    position: relative;
+    justify-content: left;
+    display: flex;
+    color: white;
+    font-size: 30px;
+    font-family: 'Iceberg', cursive;;
+    left: 60px;
+
+
+}
+.monnais{
+    width: 100%;
+    height: 250px;
+    top: 300px;
+    position: relative;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.ima{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.doc1{
+    width: 50%;
+    overflow: hidden;
+}
+.doc2{
+    width: 50%;
+    color: white;
+    overflow: hidden;
+}
+h4{
+    position: relative;
+    top: 30px;
+}
+button{
+    width: 12vw;
+    height: 40px;
+    border-radius: 100px;
+    background-color: rgb(5, 207, 55);
+    border: none;
+
+}
+.txt2{
+    width: 55%;
+    height: 100px;
+    position: relative;
+    justify-content: left;
+    display: flex;
+    color: white;
+    font-size: 15px;
+    left: 60px;
+    font-family: 'Iceberg', cursive;;
+
+}
+
+.formm2{
+    background-color: rgb(34, 36, 59);
+    width: 80%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    height: 370px;
+    left: 10vw;
+    border-radius: 50px;
+    top:   130px;
+    overflow: hidden;
+}
+.formm3{
+    background-color: rgb(34, 36, 59);
+    width: 80%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    height: 370px;
+    left: 10vw;
+    border-radius: 50px;
+    top: 250px;
+    overflow: hidden;
+}
+.azert{
+    width: 70%;
+    height: 100%;
+    padding-top: 20px;
+}
+.azerty21{
+    width: 30%;
+    height: 80%;
+    /* background-image: url(./image/Coinhouse_AV_Acheter_2307-removebg-preview.png); */
+    background-size: 400px;
+    background-repeat: no-repeat;
+
+}
+.azerty21 img{
+    position: relative;
+    width: 100%;}
+.txt22{
+
+
+    width: 70%;
+    height: 190px;
+    position: relative;
+    justify-content: left;
+    display: flex;
+    color: white;
+    font-size: 20px;
+    left: 63px;
+    top: 22px;
+    font-family: 'Iceberg', cursive;;
+    overflow: hidden;
+}
+
+.azerty4{
+    width: 30%;
+    height: 100%;
+    /* background-image: url(./image/Coinhouse_AV_Echangez_2307-removebg-preview.png); */
+    background-size: 300px;
+}
+.azerty4 img{
+    width: 100%;
+}
+
+.formm4{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    text-align: center;
+    height: 170px;
+    gap: 32px;
+    color: rgb(255, 255, 255);
+    top: 320px;
+    padding-top: 22px;
+    font-family: 'Iceberg', cursive;;
+    overflow: hidden;
+}
+.ww{
+    text-align: start;
+}
+
+.ww a{
+    text-decoration: none;
+    color: white;
+}
+
+
+@media screen and (min-width:600px) and (max-width:1000px) {
+    .formm1{
+        width: 75%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 320px;
+        left: 10vw;
+        border-radius: 50px;
+        top: 80px;
+    }
+    .ban{
+        display: none;
+    }
+    
+    .monnais{
+       display: none;
+    }
+    .azerty{
+        width: 70%;
+        height: 100%;
+    }
+    
+    .azerty2{
+        width: 30%;
+    
+        height: 100%;
+        /* background-image: url(./image/Coinhouse_A_V_Hero_1920x1080_2306-2-removebg-preview.png); */
+        background-size: 330px;
+        background-repeat: no-repeat;  
+    }
+    .azerty2 img{
+        width: 110%;
+    }
+    .txt{
+        width: 70%;
+        height: 30%;
+        justify-content: left;
+        display: flex;
+        font-family: 'Iceberg', cursive;;
+    }
+    
+    .txt1{
+        width: 55%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 25px;
+        font-family: 'Iceberg', cursive;;
+        left: 60px;
+    
+    
+    }
+    button{
+        width: 12vw;
+        height: 40px;
+        border-radius: 100px;
+        background-color: rgb(5, 207, 55);
+        border: none;
+        
+    }
+    .txt2{
+        width: 55%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 10px;
+        left: 100px;
+    }
+    
+    .formm2{
+        background-color: rgb(34, 36, 59);
+        width: 80%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: start;
+        height: 300px;
+        left: 10vw;
+        border-radius: 50px;
+        top:   130px;
+        overflow: hidden;
+    }
+    .formm3{
+        background-color: rgb(34, 36, 59);
+        width: 80%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: start;
+        height: 270px;
+        left: 10vw;
+        border-radius: 50px;
+        top: 250px;
+        overflow: hidden;
+    }
+    .azert{
+        width: 70%;
+        height: 100%;
+    }
+    .azerty21{
+        width: 30%;
+        height: 80%;
+        /* background-image: url(./image/Coinhouse_AV_Acheter_2307-removebg-preview.png); */
+        background-size: 400px;
+    
+    }
+    .azerty21 img{
+        position: relative;
+        width: 100%;
+        top: 50px;
+    }
+    .txt22{
+    
+    
+        width: 70%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 10px; 
+        left: 63px;
+        top: 22px;
+        overflow: hidden;
+    }
+    
+    .azerty4{
+        width: 30%;
+        height: 100%;
+        /* background-image: url(./image/Coinhouse_AV_Echangez_2307-removebg-preview.png); */
+        background-size: 300px;
+    }
+    .azerty4 img{
+        width: 100%;
+        position: relative;
+        top: 50px;
+    }
+    
+    .formm4{
+        background-color: rgb(0, 0, 0);
+        width: 100%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 170px;
+        gap: 32px;
+        color: rgb(255, 255, 255);
+        top: 320px;
+        padding-top: 22px;
+        overflow: hidden;
+    }
+    .ww{
+        text-align: start;
+        font-size: 10px;
+    }
+    
+    .ww a{
+        text-decoration: none;
+        color: white;
+    }
+    .bergb{
+        width: 50px;
+        height: 30px;
+        position: relative;
+        top: 22px;
+        left: 90%;
+        display: block;
+    } 
+     .bergb input{
+        display: none;
+    }
+    .bergb .hgfd{
+        display: none;
+    }
+    .hgfd{
+        visibility: hidden;
+        opacity: 1;
+        position: fixed;
+        right: 10px;
+        border-radius: 20px;
+        background-color: rgba(0, 0, 0, 0.438);
+        z-index: 1;
+        width: 100%;
+    }
+   
+    .hgfd li a{
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .hgfd li{
+        list-style-type: none;
+
+    }
+    #berg:checked ~ .hgfd{
+        visibility: visible;
+        display: block;
+    } 
+    #ddd{
+        display: none;
+    }
+    .qsdfghj{
+        display: none;
+    }
+    
+}
+
+
+@media screen and (min-width:400px) and (max-width:700px) {
+
+    .navbar{
+        width: 99.7%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-top: 20px;
+        overflow: hidden;
+    }
+    .monnais{
+      display: none;
+    }
+    .ban{
+       display: none;
+    }
+    .element1{
+        position: relative;
+        background-color: #000000;
+        width: 25%;
+        height: 70px;
+        font-size: 18px;
+        top: -22px;
+    
+    }
+  
+    .element1 a{
+        position: relative;
+        top: 25px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Iceberg', cursive;;
+        
+    
+    }
+    
+    .element2{
+        background-color: rgb(0, 0, 0);
+        width: 59%;
+        height: 70px;
+        position: relative;
+        top: -22px;
+    
+    }
+    .element2 a{
+        font-size: 14px;
+        position: relative;
+        top: 10px;
+        left: -50px;
+        font-family: 'Iceberg', cursive;;
+    
+    }
+    ul li a{
+        color: white;
+        text-decoration: none;
+        
+    
+    }
+    .element3{
+        background-color: rgb(0, 0, 0);
+        width: 16%;
+        height: 70px;
+        overflow: hidden;
+        position: relative;
+        top: -22px;
+    
+    }
+    .element3 a{
+        position: relative;
+        top: 28px;
+        font-size: 12px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Iceberg', cursive;;
+        
+    
+    
+    }
+    
+    .formm1{
+        width: 75%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 320px;
+        left: 10vw;
+        border-radius: 50px;
+        top: 80px;
+    }
+    
+    .azerty{
+        width: 70%;
+        height: 100%;
+    }
+    
+    .azerty2{
+        width: 30%;
+        height: 50%;
+        /* background-image: url(./image/Coinhouse_A_V_Hero_1920x1080_2306-2-removebg-preview.png); */
+        background-size: 330px;
+        background-repeat: no-repeat;  
+    }
+    .azerty2 img{
+        width: 110%;
+    }
+    .txt{
+        width: 70%;
+        height: 30%;
+        justify-content: left;
+        display: flex;
+        font-family: 'Iceberg', cursive;;
+   
+     }
+    .txt1{
+        width: 55%;
+        height: 50px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 17px;
+        font-family: 'Iceberg', cursive;;
+        left: 60px;
+    
+    
+    }
+    button{
+        width: 24vw;
+        height: 40px;
+        border-radius: 100px;
+        background-color: rgb(5, 207, 55);
+        border: none;
+        
+    }
+    .txt2{
+        width: 55%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 10px;
+        left: 60px;
+    }
+    
+    .formm2{
+        background-color: rgb(34, 36, 59);
+        width: 80%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: start;
+        height: 220px;
+        left: 10vw;
+        border-radius: 50px;
+        top:   0px;
+        overflow: hidden;
+    }
+    .formm3{
+        background-color: rgb(34, 36, 59);
+        width: 80%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: start;
+        height: 220px;
+        left: 10vw;
+        border-radius: 50px;
+        top: 100px;
+        overflow: hidden;
+    }
+    .azert{
+        width: 70%;
+        height: 100%;
+    }
+    .azerty21{
+        width: 30%;
+        height: 80%;
+        /* background-image: url(./image/Coinhouse_AV_Acheter_2307-removebg-preview.png); */
+        background-size: 400px;
+    
+    }
+    .azerty21 img{
+        position: relative;
+        width: 100%;
+        top: 50px;
+    }
+    .txt22{
+    
+    
+        width: 70%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 10px; 
+        left: 63px;
+        top: 22px;
+        overflow: hidden;
+    }
+    
+    .azerty4{
+        width: 30%;
+        height: 100%;
+        /* background-image: url(./image/Coinhouse_AV_Echangez_2307-removebg-preview.png); */
+        background-size: 300px;
+    }
+    .azerty4 img{
+        width: 100%;
+        position: relative;
+        top: 50px;
+    }
+    
+    .formm4{
+        background-color: rgb(0, 0, 0);
+        width: 100%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 140px;
+        gap: 32px;
+        color: rgb(255, 255, 255);
+        top: 200px;
+        padding-top: 22px;
+        overflow: hidden;
+    }
+    .ww{
+        text-align: start;
+        font-size: 10px;
+    }
+    
+    .ww a{
+        text-decoration: none;
+        color: white;
+    }
+    .bergb{
+        width: 50px;
+        height: 30px;
+        position: relative;
+        top: 22px;
+        left: 90%;
+        display: block;
+    } 
+     .bergb input{
+        display: none;
+    }
+    .bergb .hgfd{
+        display: none;
+    }
+    .hgfd{
+        visibility: hidden;
+        opacity: 1;
+        position: fixed;
+        right: 10px;
+        border-radius: 20px;
+        background-color: rgba(0, 0, 0, 0.438);
+        z-index: 1;
+        width: 100%;
+    }
+   
+    .hgfd li a{
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .hgfd li{
+        list-style-type: none;
+
+    }
+    #berg:checked ~ .hgfd{
+        visibility: visible;
+        display: block;
+    } 
+    #ddd{
+        display: none;
+    }
+    .qsdfghj{
+        display: none;
+    }
+    
+}
+
+
+@media screen and (min-width:200px) and (max-width:480px) {
+
+    .navbar{
+        width: 99.7%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-top: 20px;
+        overflow: hidden;
+    }
+    
+    .element1{
+        position: relative;
+        background-color: #000000;
+        width: 25%;
+        height: 70px;
+        font-size: 16px;
+        top: -22px;
+    
+    }
+    .ban{
+        display: none;
+     }
+  
+    .element1 a{
+        position: relative;
+        top: 25px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Iceberg', cursive;;
+    
+    }
+    
+    .element2{
+        background-color: rgb(0, 0, 0);
+        width: 59%;
+        height: 70px;
+        position: relative;
+        top: -22px;
+    
+    }
+    .element2 a{
+        font-size: 11px;
+        position: relative;
+        top: 10px;
+        left: -50px;
+        font-family: 'Iceberg', cursive;;
+    
+    }
+    ul li a{
+        color: white;
+        text-decoration: none;
+    
+    }
+    .element3{
+        background-color: rgb(0, 0, 0);
+        width: 16%;
+        height: 70px;
+        overflow: hidden;
+        position: relative;
+        top: -22px;
+    
+    }
+    .element3 a{
+        position: relative;
+        top: 28px;
+        font-size: 11px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Iceberg', cursive;;
+    
+    
+    }
+    
+    .formm1{
+        width: 75%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 320px;
+        left: 10vw;
+        border-radius: 50px;
+        top: 80px;
+    }
+    
+    .azerty{
+        width: 70%;
+        height: 100%;
+    }
+    
+    .azerty2{
+        width: 30%;
+        height: 50%;
+        /* background-image: url(./image/Coinhouse_A_V_Hero_1920x1080_2306-2-removebg-preview.png); */
+        background-size: 330px;
+        background-repeat: no-repeat;  
+    }
+    .azerty2 img{
+        width: 110%;
+    }
+    .txt{
+        width: 70%;
+        height: 30%;
+        justify-content: left;
+        display: flex;
+        font-family: 'Iceberg', cursive;;
+   
+     }
+    .txt1{
+        width: 55%;
+        height: 50px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 13px;
+        font-family: 'Iceberg', cursive;;
+        left: 60px;
+    
+    
+    }
+    button{
+        width: 25vw;
+        height: 30px;
+        border-radius: 100px;
+        background-color: rgb(5, 207, 55);
+        border: none;
+        font-size: 10px;
+        
+    }
+    .txt2{
+        width: 55%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 7px;
+        left: 60px;
+    }
+    
+    .formm2{
+        background-color: rgb(34, 36, 59);
+        width: 80%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: start;
+        height: 180px;
+        left: 10vw;
+        border-radius: 50px;
+        top:   0px;
+        overflow: hidden;
+    }
+    .formm3{
+        background-color: rgb(34, 36, 59);
+        width: 80%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: start;
+        height: 180px;
+        left: 10vw;
+        border-radius: 50px;
+        top: 100px;
+        overflow: hidden;
+    }
+    .azert{
+        width: 70%;
+        height: 100%;
+    }
+    .azerty21{
+        width: 30%;
+        height: 80%;
+        /* background-image: url(./image/Coinhouse_AV_Acheter_2307-removebg-preview.png); */
+        background-size: 400px;
+    
+    }
+    .azerty21 img{
+        position: relative;
+        width: 100%;
+        top: 50px;
+    }
+    .txt22{
+    
+    
+        width: 70%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 10px; 
+        left: 63px;
+        top: 22px;
+        overflow: hidden;
+    }
+    
+    .azerty4{
+        width: 30%;
+        height: 100%;
+        /* background-image: url(./image/Coinhouse_AV_Echangez_2307-removebg-preview.png); */
+        background-size: 300px;
+    }
+    .azerty4 img{
+        width: 100%;
+        position: relative;
+        top: 50px;
+    }
+    
+    .formm4{
+        background-color: rgb(0, 0, 0);
+        width: 100%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 140px;
+        gap: 32px;
+        color: rgb(255, 255, 255);
+        top: 200px;
+        padding-top: 22px;
+        overflow: hidden;
+    }
+    .ww{
+        text-align: start;
+        font-size: 10px;
+    }
+    
+    .ww a{
+        text-decoration: none;
+        color: white;
+    }
+    .bergb{
+        width: 50px;
+        height: 30px;
+        position: relative;
+        top: 22px;
+        left: 90%;
+        display: block;
+    } 
+     .bergb input{
+        display: none;
+    }
+    .bergb .hgfd{
+        display: none;
+    }
+    .hgfd{
+        visibility: hidden;
+        opacity: 1;
+        position: fixed;
+        right: 10px;
+        border-radius: 20px;
+        background-color: rgba(0, 0, 0, 0.438);
+        z-index: 1;
+        width: 100%;
+    }
+   
+    .hgfd li a{
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .hgfd li{
+        list-style-type: none;
+
+    }
+    #berg:checked ~ .hgfd{
+        visibility: visible;
+        display: block;
+    } 
+    #ddd{
+        display: none;
+    }
+    .qsdfghj{
+        display: none;
+    }
+    
+}
+
+
+@media screen and (min-width:240px) and (max-width:400px) {
+
+    .navbar{
+        width: 109%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-top: 20px;
+        overflow: hidden;
+    }
+    .ban{
+        display: none;
+     }
+    .element1{
+        position: relative;
+        background-color: #000000;
+        width: 25%;
+        height: 70px;
+        font-size: 18px;
+        top: -22px;
+    
+    }
+  
+    .element1 a{
+        position: relative;
+        top: 25px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Iceberg', cursive;;
+        
+    
+    }
+    
+    .element2{
+        background-color: rgb(0, 0, 0);
+        width: 59%;
+        height: 70px;
+        position: relative;
+        top: -22px;
+    
+    }
+    .element2 a{
+        font-size: 14px;
+        position: relative;
+        top: -4px;
+        left: -50px;
+        font-family: 'Iceberg', cursive;;
+    
+    }
+    ul li a{
+        color: white;
+        text-decoration: none;
+        
+    
+    }
+    .element3{
+        width: 16%;
+        height: 70px;
+        overflow: hidden;
+        position: relative;
+        top: -22px;
+    
+    }
+    .element3 a{
+      display: none;
+    
+    
+    }
+    
+    .formm1{
+        width: 70%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 320px;
+        left: 14%;
+        border-radius: 0px;
+        top: 80px;
+    }
+    
+    .azerty{
+        width: 75%;
+        height: 100%;
+        top:100px;
+        position: relative;
+        background-image: url(../image/homepage-buy-sell.webp);
+        background-size: 200px;
+        background-repeat: no-repeat;
+    }
+    
+    .azerty2{
+      display: none;
+    }
+
+    .txt{
+        width: 70%;
+        height: 30%;
+        justify-content: left;
+        display: flex;
+        font-family: 'Iceberg', cursive;;
+   
+     }
+    .txt1{
+        width: 100%;
+        height: 50px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        left: 1%;
+        top:-94px;
+    
+    
+    }
+    button{
+        display: none;
+    }
+    .txt2{
+        width: 100%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 15px;
+        left: -1%;
+        top: 200px;
+        
+    }
+    
+    .formm2{
+       display: none;
+    }
+    .formm3{
+        display: none;
+    }
+    #txt222{
+     display: none;
+    }
+ 
+    .azert{
+       display: none;
+    }
+    .azerty21{
+        width: 70%;
+        height: 100%;
+    }
+    .azerty21 img{
+        position: relative;
+        width: 100%;
+        top: 50px;
+    }
+
+    .txt22{
+    
+        width: 70%;
+        height: 100px;
+        position: relative;
+        justify-content: left;
+        display: flex;
+        color: white;
+        font-size: 10px; 
+        left: 63px;
+        top: 22px;
+        overflow: hidden;
+    }
+    
+    .azerty4{
+        width: 30%;
+        height: 100%;
+        /* background-image: url(./image/Coinhouse_AV_Echangez_2307-removebg-preview.png); */
+        background-size: 300px;
+    }
+    .azerty4 img{
+        width: 100%;
+        position: relative;
+        top: 50px;
+    }
+    
+    .formm4{
+        background-color: rgb(0, 0, 0);
+        width: 109%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 80px;
+        gap: 32px;
+        color: rgb(255, 255, 255);
+        top: 200px;
+        padding-top: 22px;
+        overflow: hidden;
+    }
+    .ww{
+        text-align: start;
+        font-size: 5px;
+    }
+    
+    .ww a{
+        text-decoration: none;
+        color: white;
+    }
+    .fut{
+        font-size: 10px;
+    }
+    
+    .monnais{
+        width: 100%;
+        height: 250px;
+        top: 100px;
+        position: relative;
+        justify-content: center;
+        display: flex;
+        text-align: center;
+    }
+    .ima{
+        width: 90%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    
+    }
+    .doc1{
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        top: 90px;
+    }
+    .doc2{
+      display: none;
+    }
+    h4{
+        position: relative;
+        top: 15px;
+        font-size: 11px;
+    }
+    .bergb{
+        width: 50px;
+        height: 30px;
+        position: relative;
+        top: 22px;
+        left: 90%;
+        display: block;
+    } 
+     .bergb input{
+        display: none;
+    }
+    .bergb .hgfd{
+        display: none;
+    }
+    .hgfd{
+        visibility: hidden;
+        opacity: 1;
+        position: fixed;
+        right: 10px;
+        border-radius: 20px;
+        background-color: rgba(0, 0, 0, 0.438);
+        z-index: 1;
+        width: 100%;
+    }
+   
+    .hgfd li a{
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .hgfd li{
+        list-style-type: none;
+
+    }
+    #berg:checked ~ .hgfd{
+        visibility: visible;
+        display: block;
+    } 
+    #ddd{
+        display: none;
+    }
+    .qsdfghj{
+        display: none;
+    }
+  
+}
+
